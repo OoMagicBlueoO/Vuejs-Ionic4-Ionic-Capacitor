@@ -16,17 +16,17 @@ yarn run build
 ### IOS
 ```
 yarn run build
-npx cap copy
 npx cap add platform ios (if you need)
 npx cap open ios
+npx cap copy
 Run within XCode
 ```
 
 ### ANDROID
 ```
 yarn run build
-npx cap copy
 npx cap add platform android (if you need)
 npx cap open android
+npx cap copy
 Run within Android studio
 ```
