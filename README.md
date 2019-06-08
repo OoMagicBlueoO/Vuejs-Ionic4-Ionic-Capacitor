@@ -15,6 +15,15 @@ yarn run serve
 yarn run build
 ```
 
+### IOS
+```
+yarn run build
+npx cap copy
+npx cap add platform ios (if you need)
+npx cap open ios
+Run within XCode
+```
+
 ### ANDROID
 ```
 yarn run build
