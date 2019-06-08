@@ -1,6 +1,3 @@
-
-![alt VUE.JS](https://vuejs.org/images/logo.png)
-
 ## Project setup
 ```
 yarn install
