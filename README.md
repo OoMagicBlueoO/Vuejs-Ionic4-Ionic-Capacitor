@@ -15,15 +15,11 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
+### ANDROID
 ```
-yarn run test
+yarn run build
+npx cap copy
+npx cap add platform android (if you need)
+npx cap open android
+Run within Android studio
 ```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
